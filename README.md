@@ -9,3 +9,4 @@ An open world head to head fight with simple AI, terrain, and advanced control s
 * BT04 Trying out terrain
 * BT05 Terrain Design phase 1
 * BT06 Terrain painted
+* BT07 Terrain w/rocks, ht maps
