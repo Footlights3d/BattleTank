@@ -14,3 +14,4 @@ An open world head to head fight with simple AI, terrain, and advanced control s
 * BT09_Camera roll and gimble fix
 * BT10_Main Menu Design basic layout
 * BT11_Main Menu start/quit OK, tank camera controls work
+* BT12_Tank Player & UI controller are attaching to tanks
