@@ -12,3 +12,4 @@ An open world head to head fight with simple AI, terrain, and advanced control s
 * BT07 Terrain w/rocks, ht maps
 * BT08_3rd person camera control
 * BT09_Camera roll and gimble fix
+* BT10_Main Menu Design basic layout
