@@ -19,3 +19,4 @@ An open world head to head fight with simple AI, terrain, and advanced control s
 * BT14_FVector OUT hits landscape, true or false, set as 1.0
 * BT15_Screen location to fvector direction works, before refactor
 * BT16_After refactor, things work, world direction thru crosshair
+* BT17_Hit Location now hitting landscape, and 0,0,0 in sky

@@ -38,7 +38,10 @@ private:
 		float CrossHairXLocation = 0.5;
 	UPROPERTY(EditAnywhere)   //creates editable dropdown box in details > Tank Player Controller
 		float CrossHairYLocation = 0.3333;
+	UPROPERTY(EditAnywhere)   //creates editable dropdown box in details > Tank Player Controller
+		float LineTraceRange = 1000000;
 
 	bool GetLookDirection(FVector2D ScreenLocation, FVector& LookDirection) const;
 
+	bool GetLookVectorHitLocation(FVector LookDirction, FVector& HitLocation) const;
 };
