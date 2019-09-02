@@ -38,4 +38,7 @@ private:
 		float CrossHairXLocation = 0.5;
 	UPROPERTY(EditAnywhere)   //creates editable dropdown box in details > Tank Player Controller
 		float CrossHairYLocation = 0.3333;
+
+	bool GetLookDirection(FVector2D ScreenLocation, FVector& LookDirection) const;
+
 };
