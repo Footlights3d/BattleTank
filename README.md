@@ -16,3 +16,4 @@ An open world head to head fight with simple AI, terrain, and advanced control s
 * BT11_Main Menu start/quit OK, tank camera controls work
 * BT12_Tank Player & UI controller are attaching to tanks
 * BT13_AI tanks can see the player tank via report log
+* BT14_FVector OUT hits landscape, true or false, set as 1.0
